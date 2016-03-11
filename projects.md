@@ -54,7 +54,6 @@ Czwartek, 14.00:
 1. Socha Bartłomiej
 1. Szczutkowski Dawid
 1. Szewczyk Krystian
-1. Tyczyński Michał
 1. Tymiński Karol
 1. Uściłowicz Sebastian
 1. Wilamowski Paweł
@@ -76,3 +75,4 @@ Piątek, 12.15:
 1. Żerański Piotr
 1. [Żuk Adam](https://github.com/adamzuk/asi-project)
 1. [Okoniewski Daniel](https://github.com/okoniewskid/Architektura_serwisow_internetowych)
+2. [Tyczyński Michał](https://github.com/mtyczynski/rails)
